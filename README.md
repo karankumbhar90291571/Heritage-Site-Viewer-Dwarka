@@ -1,18 +1,18 @@
 # Heritage-Site-Viewer-Dwarka
 
-Heritage Site Viewer – Underwater Dwarka (AR/VR)
+◉ Heritage Site Viewer – Underwater Dwarka (AR/VR)
 
 Heritage Site Viewer – Underwater Dwarka is an AR/VR-based Unity project created to visualize the underwater heritage site of Dwarka. The main aim of this project is to provide a virtual way to explore the ancient submerged city and help users understand its historical and cultural importance.
 
 This project is designed mainly for education and virtual tourism, allowing users to experience an underwater heritage environment using a mobile device.
 
-About the Project
+◉ About the Project
 
 The idea behind this project is to give users a way to see and explore underwater Dwarka, which is not physically accessible to most people. The application creates a virtual underwater scene where users can observe heritage structures and experience the environment as a virtual tour.
 
 The project supports AR/VR-style viewing and is intended to run on a mobile device using an APK, making it easy to access and demonstrate.
 
-Key Features
+◉ Key Features
 
 Visualization of the underwater heritage site of Dwarka
 
@@ -22,7 +22,7 @@ AR/VR-style immersive viewing
 
 Mobile-based experience through APK
 
-Technologies Used
+◉ Technologies Used
 
 Unity Engine
 
@@ -34,12 +34,12 @@ C#
 
 Git and GitHub
 
-Project Structure
+◉ Project Structure
 Assets/           - Scenes, scripts, 3D models, and materials  
 Packages/         - Unity dependencies  
 ProjectSettings/  - Unity configuration files  
 
-How to Run the Project
+◉ How to Run the Project
 
 Install Unity Hub
 
@@ -53,7 +53,7 @@ Connect a supported mobile device or use simulator
 
 Build APK or press Play to test the project
 
-Use Case
+◉ Use Case
 
 Educational demonstrations
 
@@ -63,7 +63,7 @@ AR/VR learning experiences
 
 Project exhibitions and presentations
 
-What I Learned
+◉ What I Learned
 
 Basics of AR/VR development using Unity
 
@@ -75,7 +75,7 @@ Structuring and managing a real AR/VR project
 
 Using GitHub for version control
 
-Developer
+◉ Developer
 
 Karan Kumbhar
 GitHub: https://github.com/karankumbhar90291571
